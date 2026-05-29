@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyrave",
+        "uuid": 43443585,
+        "checksum": "k2qpw"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
